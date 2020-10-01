@@ -1,0 +1,60 @@
+body {
+  font-family: "lemonada-light", cursive;
+  color: #f5cb5c;
+  background-color:#3A4454;
+}
+
+.info{
+    background-color: #878E88;
+}
+
+.profile-icon{
+    color:black;
+    align-items: center;
+}
+.carousel .carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+}
+
+/* .container-fluid1{
+    background-color: grey;
+    background-position: cover;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+} */
+
+.card{
+    margin-left: 60px;
+}
+.style-a{
+    color:  #FFBA08;
+}
+
+.footer {
+  background-color: #343633;
+  margin: 0;
+  padding: 20px 0px;
+  margin-top: 10px;
+}
+a{
+    color: #FFBA08;
+}
+.card{
+    background-color: #011627;
+}
+
+.card:hover{
+    border: solid cyan 1px;
+}
+/* social icons */
+
+
